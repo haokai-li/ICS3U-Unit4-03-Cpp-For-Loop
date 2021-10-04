@@ -2,7 +2,7 @@
 //
 // Created by: Haokai
 // Created on: Oct 2021
-// This Program is about for loop
+// This Program is about the for loop
 
 #include <iostream>
 #include <string>
